@@ -1,0 +1,11 @@
+﻿# run webapps
+vn.mog.topupfront.WalletTopupFrontApplication
+
+# run topup service
+vn.mog.payment.TopupApplication
+
+# web url
+http://localhost:8080/login
+## account
+username: merchant@1pay.vn
+password: onepay@123
